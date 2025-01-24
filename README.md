@@ -1,6 +1,6 @@
 <h1>CEH Lab 2</h1>
 
-<p align="center">
+
 ![Image Alt](https://github.com/DannyRRios/CEH-Lab-2/blob/9f454364cff27c37038b3fc4c1ee265c0a9fba1a/Lab1-1.png)
 This is a screenshot of the final step I completed! 
 
