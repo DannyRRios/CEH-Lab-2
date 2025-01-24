@@ -1,4 +1,4 @@
-<h1>Scanning Networks Lab-CEH</h1>
+<h1>Scanning Networks Lab - CEH</h1>
 
 
 ![Image Alt](https://github.com/DannyRRios/CEH-Lab-2/blob/9f454364cff27c37038b3fc4c1ee265c0a9fba1a/Lab1-1.png)
